@@ -1,4 +1,4 @@
 # 2023
 
 Contributors:
-# Joseph George - 
+1. Joseph George - 
